@@ -1,0 +1,20 @@
+C:\Users\joao_\source\repos\YB.DownloadVideos\bin\Release\net6.0-windows\Youtube Download.exe
+C:\Users\joao_\source\repos\YB.DownloadVideos\bin\Release\net6.0-windows\Youtube Download.deps.json
+C:\Users\joao_\source\repos\YB.DownloadVideos\bin\Release\net6.0-windows\Youtube Download.runtimeconfig.json
+C:\Users\joao_\source\repos\YB.DownloadVideos\bin\Release\net6.0-windows\Youtube Download.dll
+C:\Users\joao_\source\repos\YB.DownloadVideos\bin\Release\net6.0-windows\Youtube Download.pdb
+C:\Users\joao_\source\repos\YB.DownloadVideos\bin\Release\net6.0-windows\AngleSharp.dll
+C:\Users\joao_\source\repos\YB.DownloadVideos\bin\Release\net6.0-windows\YoutubeExplode.dll
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\YB.DownloadVideos.csproj.AssemblyReference.cache
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\YB.DownloadVideos.Form1.resources
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\YB.DownloadVideos.csproj.GenerateResource.cache
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\YB.DownloadVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\YB.DownloadVideos.AssemblyInfoInputs.cache
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\YB.DownloadVideos.AssemblyInfo.cs
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\YB.DownloadVideos.csproj.CoreCompileInputs.cache
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\YB.DownloadVideos.csproj.CopyComplete
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\Youtube Download.dll
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\refint\Youtube Download.dll
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\Youtube Download.pdb
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\YB.DownloadVideos.genruntimeconfig.cache
+C:\Users\joao_\source\repos\YB.DownloadVideos\obj\Release\net6.0-windows\ref\Youtube Download.dll

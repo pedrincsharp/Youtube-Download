@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJEigqRcHghe+bADkXVnVRG6FgrnfPpfYXf+HF8WqTIspjCHA3Db9sdDAAP761oqO8522agyMw43UrhBYMCSUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao_\\Documents\\Projetos\\Youtube-Download\\YB.DownloadVideos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao_\\.nuget\\packages\\anglesharp\\1.0.3\\anglesharp.1.0.3.nupkg.sha512",
+    "C:\\Users\\joao_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\joao_\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\joao_\\.nuget\\packages\\youtubeexplode\\6.2.16\\youtubeexplode.6.2.16.nupkg.sha512"
+  ],
+  "logs": []
+}
